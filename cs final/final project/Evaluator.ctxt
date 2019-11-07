@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Evaluator
+comment1.params=
+comment1.target=Evaluator()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Evaluator\n
+comment2.params=response
+comment2.target=java.lang.String\ getNextQuestion(java.lang.String)
+comment2.text=\n\ Updates\ the\ question\ with\ the\ next\ word\ in\ the\ dataset.\ Takes\ into\n\ consideration\ the\ response\ the\ user\ enters,\ incrementing\ the\ number\n\ of\ "no"\ responses\ to\ keep\ track\ of\ when\ to\ terminate\ the\ program.\n\ \n\ @param\ \ response\ \ "yes"\ or\ "no"\ indicating\ whether\ or\ not\ the\ child\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ can\ pronounce\ a\ certain\ word\n\ @return\ \ String\ \ next\ word\ in\ the\ sorted\ dataset\n\ \n
+comment3.params=
+comment3.target=boolean\ isDone()
+comment3.text=\n\ Checks\ if\ the\ program\ has\ finished\ (if\ 3\ "no"\ responses\ have\ been\n\ entered\ consecutively\ or\ end\ of\ dataset\ has\ been\ reached).\n\ \n\ @return\ \ boolean\ \ true\ if\ program\ should\ be\ terminated,\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\ otherwise\n
+numComments=4

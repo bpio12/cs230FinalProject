@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FilterPredicate
+comment0.text=\n\ filename\:\ FilterPredicate.java\n\ description\:\ Represents\ a\ predicate\ that\ is\ used\ to\ filter\ a\ collection\ of\ items.\n\ date\:\ 04/01/19\n\ @author\ Angelina\ Li\n\n\ NOTE\:\ Do\ NOT\ modify\ this\ class.\n
+comment1.params=element
+comment1.target=boolean\ apply(java.lang.Object)
+comment1.text=\n\ Given\ an\ element,\ will\ return\ true\ if\ this\ element\ should\ be\ included\n\ in\ the\ Collection<T>\ this\ predicate\ is\ filtering\ over.\n\ @return\ whether\ the\ specified\ element\ should\ be\ included\ in\ the\ filtered\n\ \ \ \ \ \ \ \ \ Collection<T>\ of\ elements.\n
+numComments=2

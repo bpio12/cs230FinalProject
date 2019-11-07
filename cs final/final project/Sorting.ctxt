@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Sorting
+comment1.params=data\ c
+comment1.target=void\ selectionSort(java.util.Vector,\ java.util.Comparator)
+comment1.text=\n\ Sorts\ a\ Vector\ of\ Row\ objects\ in-place\ using\ the\ selection\ sort\ \n\ algorithm.\ Will\ leave\ data\ sorted\ in\ ascending\ order.\n\ @param\ data\ -\ Vector\ of\ Rows\ representing\ the\ data\ to\ be\ sorted\n\ @param\ c\ -\ Comparator\ specifying\ a\ method\ to\ compare\ between\ two\ \n\ \ \ \ \ \ \ \ \ \ \ \ Row\ objects\n
+comment2.params=data\ index1\ index2
+comment2.target=void\ swap(java.util.Vector,\ int,\ int)
+comment2.text=\n\ Swaps\ two\ Rows\ in\ the\ specified\ vector.\ \n
+comment3.params=data\ c
+comment3.target=void\ mergeSort(java.util.Vector,\ java.util.Comparator)
+comment3.text=\n\ Sorts\ a\ Vector\ of\ Row\ objects\ in-place\ using\ the\ merge\ sort\ \n\ algorithm.\ Will\ leave\ data\ sorted\ in\ ascending\ order.\n\ @param\ data\ -\ Vector\ of\ Rows\ representing\ the\ data\ to\ be\ sorted\n\ @param\ c\ -\ Comparator\ specifying\ a\ method\ to\ compare\ between\ two\ \n\ \ \ \ \ \ \ \ \ \ \ \ Row\ objects\n
+comment4.params=data\ c\ min\ max
+comment4.target=void\ mergeSortRecursive(java.util.Vector,\ java.util.Comparator,\ int,\ int)
+comment5.params=data\ c\ first\ mid\ last
+comment5.target=void\ merge(java.util.Vector,\ java.util.Comparator,\ int,\ int,\ int)
+numComments=6

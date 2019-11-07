@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Processor
+comment1.params=age\ lw
+comment1.target=Processor(int,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Processor\n
+comment2.params=
+comment2.target=int\ findIndexOfAge()
+comment2.text=\n\ Finds\ the\ index\ of\ a\ specific\ age\ in\ the\ list\n\ \n\ @return\ int\ the\ index\ of\ the\ age\n
+comment3.params=
+comment3.target=java.lang.String\ perWhoHaveWordAtAge()
+comment3.text=\n\ This\ method\ takes\ the\ age\ of\ the\ child\ and\ a\ word\ they\ can\ pronounce\ as\ a\ parameter.\ First\ it\ goes\ to\ the\ age\ Vector\ and\ finds\ the\ \n\ index\ corresponding\ to\ the\ age\ of\ the\ child.\ It\ then\ takes\ that\ index\ and\ finds\ the\ value\ of\ the\ word\ in\ the\ hash\ table\ associated\ with\n\ that\ index\ to\ grab\ the\ percentage\ of\ children\ who\ can\ pronounce\ that\ word\ at\ that\ age.\ If\ the\ percentage\ is\ over\ 75%,\ the\ program\ will\ \n\ provide\ tips\ for\ improving\ the\ children's\ vocabulary\ acquisition.\ \n\ \n\ @return\ String\ resonse,\ containing\ the\ tips,\ or\ an\ indication\ that\ their\ child\ appears\ to\ be\ acquiring\ language\ at\ a\ normal\ rate.\ \n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\n\ Main\ method\ that\ we\ used\ to\ test\ the\ program\ running\ on\ the\ command\ line\n
+numComments=5

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FilterableDataset
+comment1.params=predicate
+comment1.target=FilterableDataset\ filterBy(FilterPredicate)
+comment1.text=\n\ Returns\ a\ copy\ of\ the\ data\ in\ this\ dataset,\ as\ filtered\ by\ the\ rule\ \n\ specified\ in\ predicate.\n\ @return\ a\ new\ FilterableDataset\ of\ all\ the\ rows\ in\ the\ dataset\ that\ meet\ the\ rule\ \n\ \ \ \ \ \ \ \ \ specified\ in\ predicate.\n
+numComments=2

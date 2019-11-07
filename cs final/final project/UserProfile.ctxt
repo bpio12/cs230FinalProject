@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=UserProfile
+comment0.text=\n\ UserProfile\ creates\ a\ UserProfile\ object\ which\ contains\ information\ about\n\ the\ child\ who\ will\ be\ using\ our\ program\ to\ calculate\ their\ language\ proficiency\n\n\ @author\ bpio\n\ @version\ 5/11/2019\n
+comment1.params=n\ a\ g
+comment1.target=UserProfile(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=UserProfile()
+comment3.params=
+comment3.target=int\ getAge()
+comment3.text=\n\ Obtains\ the\ age\ of\ the\ child\n\ \n\ @return\ int\ the\ age\ of\ the\ child\n
+comment4.params=a
+comment4.target=void\ setAge(int)
+comment4.text=\n\ Sets\ the\ age\ of\ the\ child\n\ \n\ @param\ int\ the\ age\ of\ the\ child\n
+comment5.params=
+comment5.target=java.lang.String\ getGender()
+comment5.text=\n\ Obtains\ the\ gender\ of\ the\ child\n\ \n\ @return\ String\ the\ gender\ of\ the\ child\n
+comment6.params=g
+comment6.target=void\ setGender(java.lang.String)
+comment6.text=\n\ Sets\ the\ gender\ of\ the\ child\n\ \n\ @param\ String\ the\ gender\ of\ the\ child\n
+comment7.params=n
+comment7.target=void\ setName(java.lang.String)
+comment7.text=\n\ Sets\ the\ name\ of\ the\ child\n\ \n\ @param\ String\ the\ name\ of\ the\ child\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

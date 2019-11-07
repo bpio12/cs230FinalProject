@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Reader
+comment1.params=filepath\ numRows
+comment1.target=Reader(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ Reader\ class.\ Given\ a\ path\ to\ where\ eviction\ data\ is\ being\n\ stored\ on\ your\ local\ machine,\ as\ well\ as\ a\ number\ of\ rows\ desired,\ will\n\ initialize\ a\ FilterableDataset\ containing\ the\ first\ numRows\ rows\ in\ the\ dataset.\n\n\ @param\ filepath\ -\ A\ filepath\ representing\ where\ the\ csv\ data\ file\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ containing\ eviction\ data\ is\ kept.\ This\ can\ be\ either\ a\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ relative\ or\ absolute\ filepath\ -\ e.g.\ "eviction.csv"\ or\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ "Users/angie/Desktop/pset4/eviction.csv".\n\ @param\ numRows\ -\ \ The\ number\ of\ rows\ desired.\ Note\ that\ if\ you\ specify\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ more\ rows\ of\ data\ than\ exist\ in\ the\ dataset,\ you\ will\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ get\ the\ entire\ dataset.\n
+comment2.params=row\ field
+comment2.target=double\ getDoubleField(fastcsv.CsvRow,\ java.lang.String)
+comment3.params=
+comment3.target=FilterableDataset\ getDataset()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\n\ Some\ starter\ code\ to\ help\ you\ understand\ how\ filterBy\ works.\n
+numComments=5

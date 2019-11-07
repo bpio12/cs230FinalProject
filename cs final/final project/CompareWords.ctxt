@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CompareWords
+comment1.params=row2\ row1
+comment1.target=int\ compare(Row,\ Row)
+comment1.text=\n\ Compares\ two\ rows\ to\ determine\ which\ word\ has\ a\ higher\ percentage\ of\n\ children\ at\ age\ 16\ months\ who\ can\ fully\ pronounce\ the\ word.\ The\ \n\ parameters\ are\ in\ reverse\ order\ (row2,\ row1)\ in\ order\ to\ eventually\n\ sort\ the\ words\ in\ descending\ order.\n\ \n\ @param\ \ row1,\ row2\ \ two\ rows\ from\ the\ data\ to\ compare\ percentages\ of\n\ @return\ int\ \ 1\ if\ the\ word\ corresponding\ to\ the\ second\ row\ has\ a\ higher\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ percentage\ of\ children\ who\ can\ pronounce\ the\ word,\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ -1\ if\ lower,\ and\ 0\ if\ equal\n
+numComments=2

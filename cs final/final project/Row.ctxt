@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Row
+comment1.params=definition\ category\ sixteen\ seventeen\ eighteen\ nineteen\ twenty\ twentyOne\ twentyTwo\ twentyThree\ twentyFour\ twentyFive\ twentySix\ twentySeven\ twentyEight\ twentyNine\ thirty
+comment1.target=Row(java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ Row\ class.\ \n\ Each\ Row\ represents\ data\ on\ the\ city-year\ level.\n
+comment2.params=
+comment2.target=java.lang.String\ getWord()
+comment2.text=\n\ Getter\ method\ for\ all\ String\ values\ associated\ with\ this\ row.\n\ @return\ String\ value\ associated\ with\ this\ row.\n
+comment3.params=variableName
+comment3.target=double\ getDataValue(java.lang.String)
+comment3.text=\n\ Getter\ method\ for\ all\ numerical\ values\ associated\ with\ this\ row.\n\ @return\ numerical\ value\ associated\ with\ this\ row.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Returns\ a\ String\ representing\ all\ the\ data\ in\ this\ Row\ instance.\n\ \ \ \ \ @return\ a\ String\ representation\ of\ this\ Row.\n
+numComments=5
